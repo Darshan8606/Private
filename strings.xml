@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="service_description">Counts Instagram Reels you scroll past and shows the count in a small overlay. Only Instagram\'s Reels screen is inspected, nothing is stored except the number, and nothing leaves your phone.</string>
+</resources>
